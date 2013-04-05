@@ -1,0 +1,6 @@
+Host eniac
+  HostName eniac.seas.upenn.edu
+  User jtrovato
+
+Host github.com
+  IdentityFile ~/.ssh/github.key
